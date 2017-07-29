@@ -8,5 +8,5 @@ cask 'palemoon' do
 
   license :oss
 
-  app 'NewMoon.app', :target => 'Pale Moon.app'
+  app 'NewMoon.app'
 end
