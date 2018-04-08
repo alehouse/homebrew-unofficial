@@ -7,7 +7,6 @@ cask 'fabric' do
   appcast 'https://ssl-download-crashlytics-com.s3.amazonaws.com/fabric/version.xml'
   name 'Fabric'
   homepage 'https://get.fabric.io/'
-  license :gratis
 
   app 'Fabric.app'
 end
