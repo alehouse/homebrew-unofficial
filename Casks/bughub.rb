@@ -5,7 +5,6 @@ cask 'bughub' do
   url "https://github.com/alehouse/BugHub/raw/master/downloads/BugHub_#{version}.tgz"
   name 'BugHub'
   homepage 'https://github.com/Me1000/BugHub'
-  license :oss
 
   app 'BugHub.app'
 end

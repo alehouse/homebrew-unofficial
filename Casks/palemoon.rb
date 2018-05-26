@@ -5,7 +5,6 @@ cask 'palemoon' do
   url "http://mac.palemoon.org/dist/palemoon-#{version}.mac64.dmg"
   name 'Pale Moon'
   homepage 'http://forum.palemoon.org/viewforum.php?f=41'
-  license :oss
 
   app 'NewMoon.app', :target => 'Pale Moon.app'
 end

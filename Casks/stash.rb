@@ -5,7 +5,6 @@ cask 'stash' do
   url "https://github.com/alehouse/Stash/raw/master/downloads/Stash_#{version}.tgz"
   name 'Stash'
   homepage 'https://github.com/beelsebob/Stash'
-  license :oss
 
   app 'Stash.app'
 end

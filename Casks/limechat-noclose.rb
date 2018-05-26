@@ -5,7 +5,6 @@ cask 'limechat-noclose' do
   url "https://github.com/rolandwalker/limechat/releases/download/#{version}-hide-window-on-close/LimeChat.app.zip"
   name 'LimeChat'
   homepage 'https://github.com/rolandwalker/limechat'
-  license :oss
 
   app 'LimeChat.app'
 end

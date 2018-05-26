@@ -5,7 +5,6 @@ cask 'cocoaslideshow' do
   url "https://github.com/alehouse/CocoaSlideShow/raw/master/downloads/CocoaSlideShow_#{version}.tgz"
   name 'CocoaSlideShow'
   homepage 'https://github.com/nst/CocoaSlideShow'
-  license :oss
 
   app 'CocoaSlideShow.app'
 end

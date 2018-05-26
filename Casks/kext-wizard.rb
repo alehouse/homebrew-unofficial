@@ -7,7 +7,6 @@ cask 'kext-wizard' do
           checkpoint: '2965b54d4f60817666f7c669ce99b8b5fae37268ac61a281fc7dd5dfca8571b0'
   name 'Kext Wizard'
   homepage 'http://www.insanelymac.com/forum/topic/253395-kext-wizard-easy-to-use-kext-installer-and-more/'
-  license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
   app 'Kext Wizard.app'
 end

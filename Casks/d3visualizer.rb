@@ -5,7 +5,6 @@ cask 'd3visualizer' do
   url "https://github.com/alehouse/D3Visualizer/raw/master/downloads/D3Visualizer_#{version}.tgz"
   name 'D3Visualizer'
   homepage 'https://github.com/swisspol/D3Visualizer'
-  license :oss
 
   app 'D3Visualizer.app'
 end

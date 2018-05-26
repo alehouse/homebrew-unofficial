@@ -5,7 +5,6 @@ cask 'iterm2-borderless' do
   url 'https://github.com/Nasga/iterm2-borderless/archive/master.zip'
   name 'iTerm2 borderless'
   homepage 'https://github.com/Nasga/iterm2-borderless'
-  license :oss
 
   app 'iterm2-borderless-master/iTerm.app', target: 'iTerm Borderless.app'
 end

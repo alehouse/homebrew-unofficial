@@ -5,7 +5,6 @@ cask 'easytag' do
   url "https://github.com/rfw/easytag-mac/releases/download/v#{version}/easytag-v#{version}.dmg"
   name 'EasyTAG'
   homepage 'https://rfw.name/easytag-mac/'
-  license :oss
 
   app 'EasyTAG.app'
 end

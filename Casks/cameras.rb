@@ -5,7 +5,6 @@ cask 'cameras' do
   url 'https://www.flexibits.com/cameras/downloads/Cameras.dmg'
   name 'Cameras'
   homepage 'https://www.macupdate.com/app/mac/31606/cameras'
-  license :gratis
 
   prefpane 'Cameras.prefPane'
 

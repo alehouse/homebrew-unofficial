@@ -5,7 +5,6 @@ cask 'wiiscale' do
   url "https://github.com/alehouse/wiiscale/raw/master/downloads/WiiScale_#{version}.tgz"
   name 'WiiScale'
   homepage 'https://github.com/damariei/wiiscale'
-  license :oss
 
   app 'WiiScale.app'
 end

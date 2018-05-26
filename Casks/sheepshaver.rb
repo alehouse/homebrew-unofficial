@@ -5,7 +5,6 @@ cask 'sheepshaver' do
   url 'http://www.xs4all.nl/~ronaldpr/sheepshaverforum/SheepShaver_UB_20140201.zip'
   name 'SheepShaver'
   homepage 'http://sheepshaver.cebix.net'
-  license :gpl
 
   app 'SheepShaver_UB_20140201/SheepShaver.app'
 end

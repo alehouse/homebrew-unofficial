@@ -5,7 +5,6 @@ cask 'dock-dodger' do
   url 'http://dl.macupdate.com/prod/Dock%20Dodger.zip'
   name 'Dock Dodger'
   homepage 'http://foggynoggin.com'
-  license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
   app 'Dock Dodger.app'
 end

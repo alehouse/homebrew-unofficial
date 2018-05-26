@@ -5,7 +5,6 @@ cask 'aerofs' do
   url "https://dsy5cjk52fz4a.cloudfront.net/AeroFSInstall-#{version}.dmg"
   name 'AeroFS'
   homepage 'https://www.aerofs.com/'
-  license :gratis
 
   app 'AeroFS.app'
 end

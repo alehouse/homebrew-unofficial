@@ -5,7 +5,6 @@ cask 'cave-story-en' do
   url 'https://dl.dropboxusercontent.com/u/73366966/Cave%20Story.zip?dl=1'
   name 'Cave Story'
   homepage 'http://www.cavestory.org'
-  license :closed
 
   app 'Cave Story.app'
 end

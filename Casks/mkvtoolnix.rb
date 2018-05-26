@@ -5,7 +5,6 @@ cask 'mkvtoolnix' do
   url "https://www.macupdate.com/download/16837/MKVToolNix-#{version}.dmg"
   name 'MKVToolnix'
   homepage 'https://www.bunkus.org/videotools/mkvtoolnix'
-  license :gpl
 
   app "MKVToolNix-#{version}.app"
 end

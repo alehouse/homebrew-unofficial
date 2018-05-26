@@ -5,7 +5,6 @@ cask 'undercover' do
   url "http://assets.undercoverhq.com/client/#{version}/undercover_mac.pkg"
   name 'Undercover'
   homepage 'http://www.orbicule.com/undercover/mac/'
-  license :commercial
 
   pkg 'undercover_mac.pkg'
 

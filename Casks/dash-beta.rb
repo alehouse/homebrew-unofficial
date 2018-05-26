@@ -6,7 +6,6 @@ cask 'dash-beta' do
   url 'https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/004/633/802/original/537af3eefba4513c44aedbab7606c3bf/Dash_Beta.app.zip'
   name 'Dash'
   homepage 'https://kapeli.com/dash'
-  license :commercial
 
   app 'Dash Beta.app'
 end

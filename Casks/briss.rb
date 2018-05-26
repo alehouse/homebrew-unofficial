@@ -5,7 +5,6 @@ cask 'briss' do
   url 'https://dl.dropboxusercontent.com/u/1464091/briss.zip'
   name 'Briss'
   homepage 'http://briss.sourceforge.net'
-  license :gpl
 
   app 'Briss.app'
 end

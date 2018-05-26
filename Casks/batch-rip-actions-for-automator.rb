@@ -5,7 +5,6 @@ cask 'batch-rip-actions-for-automator' do
   url "https://dl.dropbox.com/u/242398/BatchRip/BatchRipActions-#{version}.dmg"
   name 'Batch Rip Actions for Automator'
   homepage 'http://forums.macrumors.com/showthread.php?t=805573'
-  license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
   app 'Batch Rip Actions for Automator.app'
 

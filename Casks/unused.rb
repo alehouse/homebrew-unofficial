@@ -5,7 +5,6 @@ cask 'unused' do
   url "https://github.com/alehouse/Unused/raw/master/downloads/Unused_#{version}.tgz"
   name 'Unused'
   homepage 'https://github.com/jeffhodnett/Unused'
-  license :oss
 
   app 'Unused.app'
 end

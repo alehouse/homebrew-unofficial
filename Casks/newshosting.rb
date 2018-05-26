@@ -6,7 +6,6 @@ cask 'newshosting' do
   url "https://w8m8b4g9.ssl.hwcdn.net/www.newshosting.com/client/newshosting_#{version}.dmg"
   name 'Newshosting'
   homepage 'https://www.newshosting.com/'
-  license :commercial
 
   app 'Newshosting.app'
 end

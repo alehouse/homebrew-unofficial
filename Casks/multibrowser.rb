@@ -6,7 +6,6 @@ cask 'multibrowser' do
   url 'https://www.macupdate.com/download/33861/MultiBrowser.dmg'
   name 'MultiBrowser'
   homepage 'https://sites.google.com/site/tesseractsoftware/multibrowser'
-  license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
   app 'MultiBrowser.app'
 
