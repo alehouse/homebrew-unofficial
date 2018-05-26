@@ -9,7 +9,7 @@ cask 'dwarf-fortress-macnewbie' do
   suite 'Macnewbie'
 
   caveats do
-    puts <<-EOS.undent
+    puts <<~EOS
       The cask '#{@cask}' depends on the casks java and xquartz so
       in order to use '#{@cask}' do 'brew cask install java xquartz'
     EOS

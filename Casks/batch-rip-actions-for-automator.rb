@@ -37,7 +37,7 @@ cask 'batch-rip-actions-for-automator' do
                 '~/Library/Services/Batch Rip • Tag Inspector.workflow',
               ]
 
-  caveats <<-EOS.undent
+  caveats <<~EOS
     This Cask has some other requirements
     For basic encode functionality you will need to run the following cask install
 

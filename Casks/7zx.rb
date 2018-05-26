@@ -12,7 +12,7 @@ cask '7zx' do
 
   app '7zX.app'
 
-  caveats <<-EOS.undent
+  caveats <<~EOS
     Warning: #{token} has been abandoned by its author, and the
     vendor homepage is defunct.  This Cask downloads an untrusted
     copy from an alternative source.
